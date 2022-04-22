@@ -2,6 +2,13 @@
 ## About
 This is a Mini-Project for SC1015 (Introduction to Data Science and Artificial Intelligence) which focuses on Stroke prediction. 
 
+## To run the code, remove this bottom portion of the code (Within subsection Libraries Imported)
+// To be removed
+
+For GoogleCollab
+from google.colab import files
+uploaded = files.upload()
+
 ## Contributors
 * Douglas Toh DOUG0007@e.ntu.edu.sg
 * Ivan Ong IVAN0054@e.ntu.edu.sg
