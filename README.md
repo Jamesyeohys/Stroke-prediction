@@ -3,9 +3,9 @@
 This is a Mini-Project for SC1015 (Introduction to Data Science and Artificial Intelligence) which focuses on Stroke prediction. 
 
 # Contributors
-* Douglas Toh
-* Ivan Ong
-* Yeoh Yu Shyan
+* Douglas Toh DOUG0007@e.ntu.edu.sg
+* Ivan Ong IVAN0054@e.ntu.edu.sg
+* Yeoh Yu Shyan YEOH0096@e.ntu.edu.sg
 
 # Problem Definition 
 With reference to the article, it has been noticed that the growth rate of stroke has been increasing at an alarming rate in Singapore, although stroke has been known to be hereditary, our group believes that there exist various other factors that place an individual at higher risk of getting Stroke.
