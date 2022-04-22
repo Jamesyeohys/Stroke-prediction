@@ -16,6 +16,7 @@ This project will evaluate which are the highest factors that contributes to str
 # Models Used
 * Logistic regression 
 * Random forest classifier
+* Precision recall and F1 score
 * SMOTE(Synthetic Minority Oversampling Technique)
 * ADABoost
 
